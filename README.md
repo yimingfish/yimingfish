@@ -5,7 +5,7 @@ Here it is: [Yiming's Blog](https://yimingfish.github.io/index.html)
 
 ### About Myself
 
-Postdoc in Biology at the # Institute of Science and Technology Austria (ISTA)
+Postdoc in Biology at the **Institute of Science and Technology Austria (ISTA)**
 
 ### Aficionado
 
